@@ -6,4 +6,4 @@ Also it joins all of them just after initiating so that process doesn’t exit b
 
 - After varying input thread pool size,Initially there is  decrease in runtime,then after some interval it starts increasing.
 - I have implemented printing ‘misMatch’ percent which verifies whether calculated multiplication is right or not.
-- Used mutex lock/unlock at appropriate time.
+- Used mutex lock/unlock at appropriate position/time.
