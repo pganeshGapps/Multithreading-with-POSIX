@@ -1,4 +1,5 @@
 (1) Multithreaded Client-Server Architecture Simulation
+
     -Server listens to  client request and starts a service thread.At this time only, Server again starts to listen new requests  from clients.
     -Service threads are concurrent and use resouces with mutual exclusion.
 
